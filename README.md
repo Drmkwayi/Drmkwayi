@@ -1,4 +1,4 @@
-<h1 align="center">heyyyy my name is Sam</h1>
+<h1 align="center">heyyyy my name is Sam Mkwayi </h1>
 <h3 align="center">i am soft dev first year student at Nelson Mandela University .Check out my cool projects and lets build together and lets grow</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drmkwayi&label=Profile%20views&color=0e75b6&style=flat" alt="drmkwayi" /> </p>
